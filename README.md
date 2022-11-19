@@ -17,3 +17,10 @@ password is the form field where the password is entered (it may be passwd, pass
 Login indicates to Hydra the login failed message
 Login failed is the login failure message that the form returned
 -V is for verbose output showing every attempt
+
+
+
+
+Vigenere Solver sin key
+
+https://www.guballa.de/vigenere-solver
